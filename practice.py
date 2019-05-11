@@ -1,4 +1,4 @@
 print('hello')
 
 def fun():
-    pass
+    print(True)
